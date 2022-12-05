@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Computador"
+        android:icon="@drawable/pc">
+        <menu>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_steam"
+            android:icon="@drawable/steam"
+            android:title="Steam" />
+        <item
+            android:id="@+id/nav_epic"
+            android:icon="@drawable/epic"
+            android:title="Epic Games" />
+        <item
+            android:id="@+id/nav_pc"
+            android:icon="@drawable/pc"
+            android:title="PC" />
+
+    </group>
+        </menu>
+    </item>
+    <item android:title="Consoles">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_ps4"
+                    android:icon="@drawable/ps4"
+                    android:title="@string/menu_ps4" />
+                <item
+                    android:id="@+id/nav_ps5"
+                    android:icon="@drawable/ps5"
+                    android:title="@string/menu_ps5" />
+
+                <item
+                    android:id="@+id/nav_xone"
+                    android:icon="@drawable/xonelogo"
+                    android:title="@string/menu_xbox_one" />
+
+                <item
+                    android:id="@+id/nav_xs"
+                    android:icon="@drawable/seriesxs2"
+                    android:title="@string/menu_xs" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="Celulares">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_android"
+                    android:icon="@drawable/android2"
+                    android:title="@string/menu_android" />
+                <item
+                    android:id="@+id/nav_ios"
+                    android:icon="@drawable/apple3"
+                    android:title="@string/menu_ios" />
+            </group>
+        </menu>
+
+    </item>
+</menu>

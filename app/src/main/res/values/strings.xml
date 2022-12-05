@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Jogos grátis</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <!-- PC -->
+    <string name="menu_steam">Steam</string>
+    <string name="menu_epic">Epic Games</string>
+    <string name="menu_pc">PC</string>
+    <!-- Consoles -->
+    <string name="menu_ps4">PS4</string>
+    <string name="menu_ps5">PS5</string>
+    <string name="menu_xbox_one">Xbox One</string>
+    <string name="menu_xs">Xbox Series X/S</string>
+    <!-- Celulares-->
+    <string name="menu_android">Android</string>
+    <string name="menu_ios">IOS</string>
+
+    <!-- Avisos -->
+    <string name="erro_jogo">Não há jogos grátis no momento, tente novamente mais tarde!</string>
+    <string name="erro_dlc">Nao há DLCs grátis no momento, tente novamente mais tarde!</string>
+    <string name="erro_aa">Não há acesso antecipado grátis no momento, tente novamente mais tarde!</string>
+    <string name="erro_all">Ocorreu um erro, por favor, tente novamente mais tarde!</string>
+    <string name="erro_internet">Sem internet, por favor, tente novamente mais tarde!</string>
+
+    <string name="menu_abrir">Abrir</string>
+    <string name="menu_fechar">Fechar</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

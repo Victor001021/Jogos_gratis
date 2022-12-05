@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/drawable/border_iv.xml" value="0.1945" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1945" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1945" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/drawable/line.xml" value="0.2075" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/drawable/side_nav_bar.xml" value="0.1945" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/drawable/sombra.xml" value="0.1945" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/app_bar_main.xml" value="0.43340857787810383" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/content_main.xml" value="0.2" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/fragment_android.xml" value="0.2" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/fragment_epic.xml" value="0.33" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/fragment_ios.xml" value="0.2" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/fragment_origin.xml" value="0.2" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/fragment_pc.xml" value="0.2" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/fragment_ps4.xml" value="0.5" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/fragment_ps5.xml" value="0.2" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/fragment_slideshow.xml" value="0.2" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/fragment_steam.xml" value="0.2" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/fragment_xone.xml" value="0.2" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/fragment_xs.xml" value="0.25" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/nav_header_main.xml" value="0.2" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/recycle_view.xml" value="0.67" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/layout/spinner.xml" value="0.42337375964718854" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
+        <entry key="..\:/Users/vitor/AndroidStudioProjects/Jogosgrtis/app/src/main/res/menu/main.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.5" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

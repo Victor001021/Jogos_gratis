@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_steam">
+
+    <fragment
+        android:id="@+id/nav_steam"
+        android:name="com.vitor.alcan.jogosgrtis.ui.steam.SteamFragment"
+        android:label="@string/menu_steam"
+        tools:layout="@layout/fragment_steam" />
+
+    <fragment
+        android:id="@+id/nav_pc"
+        android:name="com.vitor.alcan.jogosgrtis.ui.pc.PcFragment"
+        android:label="@string/menu_pc"
+        tools:layout="@layout/fragment_pc" />
+
+    <fragment
+        android:id="@+id/nav_epic"
+        android:name="com.vitor.alcan.jogosgrtis.ui.epic.EpicFragment"
+        android:label="@string/menu_epic"
+        tools:layout="@layout/fragment_epic" />
+
+    <fragment
+        android:id="@+id/nav_ps4"
+        android:name="com.vitor.alcan.jogosgrtis.ui.ps4.Ps4Fragment"
+        android:label="@string/menu_ps4"
+        tools:layout="@layout/fragment_ps4" />
+
+    <fragment
+        android:id="@+id/nav_ps5"
+        android:name="com.vitor.alcan.jogosgrtis.ui.ps5.Ps5Fragment"
+        android:label="@string/menu_ps5"
+        tools:layout="@layout/fragment_ps5" />
+
+    <fragment
+        android:id="@+id/nav_xone"
+        android:name="com.vitor.alcan.jogosgrtis.ui.xone.XoneFragment"
+        android:label="@string/menu_xbox_one"
+        tools:layout="@layout/fragment_xone" />
+
+    <fragment
+        android:id="@+id/nav_xs"
+        android:name="com.vitor.alcan.jogosgrtis.ui.series.XsFragment"
+        android:label="@string/menu_xs"
+        tools:layout="@layout/fragment_xs" />
+
+    <fragment
+        android:id="@+id/nav_android"
+        android:name="com.vitor.alcan.jogosgrtis.ui.android.AndroidFragment"
+        android:label="@string/menu_android"
+        tools:layout="@layout/fragment_android" />
+
+    <fragment
+        android:id="@+id/nav_ios"
+        android:name="com.vitor.alcan.jogosgrtis.ui.ios.IosFragment"
+        android:label="@string/menu_ios"
+        tools:layout="@layout/fragment_ios" />
+</navigation>
