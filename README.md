@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.vitor.alcan.appclima">
+  <a href="[https://play.google.com/store/apps/details?id=com.vitor.alcan.appclima](https://play.google.com/store/apps/details?id=com.vitor.alcan.jogosgrtis)">
     <img src="google-play-badge.png"/>
   </a>
 </div>
