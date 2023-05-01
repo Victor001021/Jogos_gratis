@@ -7,7 +7,7 @@ android {
 
     defaultConfig {
         applicationId "com.vitor.alcan.jogosgrtis"
-        minSdk 23
+        minSdk 25
         targetSdk 32
         versionCode 4
         versionName "1.1"
@@ -40,6 +40,10 @@ dependencies {
     implementation 'androidx.navigation:navigation-fragment:2.5.2'
     implementation 'androidx.navigation:navigation-ui:2.5.2'
     implementation 'com.google.android.gms:play-services-ads:21.3.0'
+
+    implementation platform('com.google.firebase:firebase-bom:31.5.0')
+    implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.firebase:firebase-messaging'
 
 
     implementation 'com.android.volley:volley:1.2.1'
