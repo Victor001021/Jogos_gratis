@@ -9,9 +9,9 @@ android {
 
     defaultConfig {
         applicationId "com.vitor.alcan.jogosgrtis"
-        minSdk 25
+        minSdk 24
         targetSdk 32
-        versionCode 4
+        versionCode 6
         versionName "1.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
